@@ -1345,3 +1345,6 @@ indexexchange.com,216408,RESELLER,50b1c356f2c5c8fc
 
 # Meta
 facebook.com, 1049304728156161, DIRECT, c3e20eee3f780d68
+
+# DT Exchange
+fyber.com, 240674, DIRECT, 1ad675c9de6b5176
